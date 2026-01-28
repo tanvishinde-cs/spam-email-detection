@@ -109,3 +109,11 @@ The spam email detection model developed in this task has several real-world app
 *Conclusion* :
 
 In conclusion, this Machine Learning Model Implementation task successfully demonstrated the practical application of machine learning techniques for text classification. By using Python, Jupyter Notebook, Pandas, and Scikit-learn, a complete spam email detection system was built and evaluated. This task enhanced understanding of data preprocessing, feature extraction, model training, and evaluation, which are essential skills for machine learning and data science roles. The project also reinforced the importance of version control using GitHub, making it suitable for professional and internship-level submissions.
+
+# OUTPUT 
+
+The machine learning model for spam email detection was trained and evaluated successfully. The dataset contained 5,572 email messages, which were converted into numerical features using text vectorization techniques. The data was divided into training and testing sets to measure the model’s performance on unseen data.
+
+After training, the model achieved a high accuracy of approximately 98.5%, indicating that it can effectively classify emails as spam or non-spam (ham). The confusion matrix and classification report showed strong precision and recall for both classes, with very few misclassifications.
+
+A sample input message was tested using the trained model, and the output correctly predicted the message as spam. These results confirm that the implemented machine learning model is reliable, accurate, and suitable for real-world spam detection applications.
